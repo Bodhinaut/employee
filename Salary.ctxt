@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Salary
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Salary\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=eid\ firstName\ lastName\ annualSalary
+comment1.target=Salary(int,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getAnnualSalary()
+comment3.params=annualSalary
+comment3.target=void\ setAnnualSalary(double)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=double\ pay()
+numComments=6
